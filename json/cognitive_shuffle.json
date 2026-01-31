@@ -1,0 +1,66 @@
+{
+  "items": [
+    {
+      "id": "gentle_rain",
+      "name": "Gentle Rain",
+      "soundUrl": "https://cdn.pixabay.com/download/audio/2022/05/13/audio_1808fbf07a.mp3",
+      "category": "nature"
+    },
+    {
+      "id": "ocean_waves",
+      "name": "Ocean Waves",
+      "soundUrl": "https://cdn.pixabay.com/download/audio/2022/06/07/audio_c2eb9e6e02.mp3",
+      "category": "nature"
+    },
+    {
+      "id": "forest_birds",
+      "name": "Forest Birds",
+      "soundUrl": "https://cdn.pixabay.com/download/audio/2022/03/10/audio_4dedf2bf94.mp3",
+      "category": "nature"
+    },
+    {
+      "id": "crackling_fire",
+      "name": "Crackling Fire",
+      "soundUrl": "https://cdn.pixabay.com/download/audio/2022/03/15/audio_4a3b3e1e35.mp3",
+      "category": "cozy"
+    },
+    {
+      "id": "purring_cat",
+      "name": "Purring Cat",
+      "soundUrl": "https://cdn.pixabay.com/download/audio/2023/07/18/audio_c8b3d0a3f0.mp3",
+      "category": "cozy"
+    },
+    {
+      "id": "wind_chimes",
+      "name": "Wind Chimes",
+      "soundUrl": "https://cdn.pixabay.com/download/audio/2022/03/24/audio_7d5f3f0e5e.mp3",
+      "category": "peaceful"
+    },
+    {
+      "id": "soft_piano",
+      "name": "Soft Piano",
+      "soundUrl": "https://cdn.pixabay.com/download/audio/2022/08/02/audio_c8e2e1c2e1.mp3",
+      "category": "peaceful"
+    },
+    {
+      "id": "flowing_stream",
+      "name": "Flowing Stream",
+      "soundUrl": "https://cdn.pixabay.com/download/audio/2022/03/09/audio_d1718ab41b.mp3",
+      "category": "nature"
+    },
+    {
+      "id": "morning_birds",
+      "name": "Morning Birds",
+      "soundUrl": "https://cdn.pixabay.com/download/audio/2022/05/27/audio_1808c2c6e0.mp3",
+      "category": "nature"
+    },
+    {
+      "id": "soft_breeze",
+      "name": "Soft Breeze",
+      "soundUrl": "https://cdn.pixabay.com/download/audio/2022/03/10/audio_e2c0e1f9e9.mp3",
+      "category": "nature"
+    }
+  ],
+  "version": "1.0",
+  "lastUpdated": "2026-01-31T20:00:00Z"
+}
